@@ -14,3 +14,7 @@ This project was created to make myself become familiar with building web-applic
 4. Run the following command in your terminal or cmdPrompt: python setup.py
 3. In your browser, enter http://localost:8080/template/index.html
 4. When finished with project, hit Ctrl+C in terminal to stop HTTP server on port 8080
+
+
+##License 
+This Project is licensed under [The MIT License] (https://opensource.org/licenses/MIT)
